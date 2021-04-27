@@ -27,7 +27,7 @@ Finish
 
 07 CRUD Operations Using MongoDB
 Start
-
+Finish 
 
 08 Mongoose - Data Validation
 09 Mongoose- Modeling Relationships Between Connected Data
@@ -37,5 +37,3 @@ Start
 13 Integration Testing
 14 Test-driven Development
 15 Deployment
-
-*/
