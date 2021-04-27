@@ -22,6 +22,9 @@ Start
 Finish
 
 06 Asynchronous JavaScript
+Start
+
+
 07 CRUD Operations Using MongoDB
 08 Mongoose - Data Validation
 09 Mongoose- Modeling Relationships Between Connected Data
