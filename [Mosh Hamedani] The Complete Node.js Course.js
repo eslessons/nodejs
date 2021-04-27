@@ -31,7 +31,7 @@ Finish
 
 08 Mongoose - Data Validation
 Start
-
+Finish
 
 09 Mongoose- Modeling Relationships Between Connected Data
 10 Authentication and Authorization
