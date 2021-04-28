@@ -38,6 +38,9 @@ Start
 Finish
 
 10 Authentication and Authorization
+Start
+
+
 11 Handling and Logging Errors
 12 Unit Testing
 13 Integration Testing
