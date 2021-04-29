@@ -43,7 +43,7 @@ Finish
 
 11 Handling and Logging Errors
 Start
-
+Finish
 
 12 Unit Testing
 13 Integration Testing
