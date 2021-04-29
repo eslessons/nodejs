@@ -42,6 +42,9 @@ Start
 Finish
 
 11 Handling and Logging Errors
+Start
+
+
 12 Unit Testing
 13 Integration Testing
 14 Test-driven Development
