@@ -10,6 +10,9 @@ Start
 Finish
 
 3 - The Node Core
+Start
+
+
 4 - Modules, Exports, and Require
 5 - Events and the Event Emitter
 6 - Asynchronous Code, libuv, The Event Loop, Streams, Files, and more
