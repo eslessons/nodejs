@@ -18,6 +18,9 @@ Start
 Finish
 
 5 - Events and the Event Emitter
+Start
+
+
 6 - Asynchronous Code, libuv, The Event Loop, Streams, Files, and more
 7 - HTTP and being a Web Server
 8 - NPM the Node Package Manager
