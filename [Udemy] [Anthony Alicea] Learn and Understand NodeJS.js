@@ -22,6 +22,9 @@ Start
 Finish
 
 6 - Asynchronous Code, libuv, The Event Loop, Streams, Files, and more
+Start
+
+
 7 - HTTP and being a Web Server
 8 - NPM the Node Package Manager
 9 - Express
