@@ -27,7 +27,7 @@ Finish
 
 7 - HTTP and being a Web Server
 Start
-
+Finish
 
 8 - NPM the Node Package Manager
 9 - Express
