@@ -30,6 +30,9 @@ Start
 Finish
 
 8 - NPM the Node Package Manager
+Start
+
+
 9 - Express
 10 - Javascript, JSON, and Databases
 11 - The MEAN stack
