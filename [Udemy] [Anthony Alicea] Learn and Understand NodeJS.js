@@ -31,7 +31,7 @@ Finish
 
 8 - NPM the Node Package Manager
 Start
-
+Finish
 
 9 - Express
 10 - Javascript, JSON, and Databases
