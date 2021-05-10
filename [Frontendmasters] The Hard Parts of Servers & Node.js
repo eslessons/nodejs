@@ -22,7 +22,7 @@ Finish
 
 6. Streams
 Start
-
+Finish
 
 7. Asynchronicity in Node
 8. Wrapping Up
