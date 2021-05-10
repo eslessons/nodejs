@@ -21,6 +21,9 @@ Start
 Finish
 
 6. Streams
+Start
+
+
 7. Asynchronicity in Node
 8. Wrapping Up
 
