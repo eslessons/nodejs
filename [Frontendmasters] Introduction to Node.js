@@ -10,6 +10,7 @@ Finish
 
 3. Internal Modules & npm
 Start
+Finish
 
 4. Asynchronous Node
 5. Debugging & Testing
