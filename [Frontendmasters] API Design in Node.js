@@ -10,7 +10,7 @@ Finish
 
 3. Data Modeling
 Start
-
+Finish
 
 4. Controllers & Models
 5. Auth
