@@ -9,6 +9,9 @@ Start
 Finish
 
 3. Data Modeling
+Start
+
+
 4. Controllers & Models
 5. Auth
 6. Wrap Up
