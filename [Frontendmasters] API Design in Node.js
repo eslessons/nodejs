@@ -18,7 +18,7 @@ Finishs
 
 5. Auth
 Start
-
+Finish
 
 6. Wrap Up
 
