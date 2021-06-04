@@ -5,7 +5,10 @@ Node.js, Express, MongoDB & More The Complete Bootcamp
 Start
 Finish
 
-02 Introduction to Node.js and NPM 
+02 Introduction to Node.js and NPM
+Start
+
+
 03 Introduction to Back-End Web Development 
 04 How Node.js Works A Look Behind the Scenes 
 05 [Optional] Asynchronous JavaScript Promises and AsyncAwait 
