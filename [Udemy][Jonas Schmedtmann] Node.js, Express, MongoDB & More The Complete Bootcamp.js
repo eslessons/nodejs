@@ -7,7 +7,7 @@ Finish
 
 02 Introduction to Node.js and NPM
 Start
-
+Finish
 
 03 Introduction to Back-End Web Development 
 04 How Node.js Works A Look Behind the Scenes 
