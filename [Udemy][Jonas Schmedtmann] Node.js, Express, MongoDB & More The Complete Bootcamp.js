@@ -21,7 +21,10 @@ Finish
 Start
 Finish
 
-06 Express Lets Start Building the Natours API 
+06 Express Lets Start Building the Natours API
+Start
+
+
 07 Introduction to MongoDB 
 08 Using MongoDB with Mongoose 
 09 Error Handling with Express 
