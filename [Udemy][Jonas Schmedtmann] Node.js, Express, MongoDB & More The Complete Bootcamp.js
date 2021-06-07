@@ -13,7 +13,10 @@ Finish
 Start
 Finish
 
-04 How Node.js Works A Look Behind the Scenes 
+04 How Node.js Works A Look Behind the Scenes
+Start
+
+
 05 [Optional] Asynchronous JavaScript Promises and AsyncAwait 
 06 Express Lets Start Building the Natours API 
 07 Introduction to MongoDB 
