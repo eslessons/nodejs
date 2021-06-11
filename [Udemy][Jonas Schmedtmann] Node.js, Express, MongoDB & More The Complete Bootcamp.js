@@ -38,6 +38,9 @@ Start
 Finish
 
 10 Authentication Authorization and Security 
+Start
+
+
 11 Modelling Data and Advanced Mongoose 
 12 Server-Side Rendering with Pug Templates 
 13 Advanced Features Payments Email File Uploads 
