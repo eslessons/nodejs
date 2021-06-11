@@ -33,7 +33,10 @@ Finish
 Start
 Finish
 
-09 Error Handling with Express 
+09 Error Handling with Express
+Start
+
+
 10 Authentication Authorization and Security 
 11 Modelling Data and Advanced Mongoose 
 12 Server-Side Rendering with Pug Templates 
