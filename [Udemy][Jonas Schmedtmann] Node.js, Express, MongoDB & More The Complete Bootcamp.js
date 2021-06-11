@@ -35,7 +35,7 @@ Finish
 
 09 Error Handling with Express
 Start
-
+Finish
 
 10 Authentication Authorization and Security 
 11 Modelling Data and Advanced Mongoose 
