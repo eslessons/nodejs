@@ -47,7 +47,6 @@ Finish
 
 12 Server-Side Rendering with Pug Templates 
 Start
-Part I
 
 
 13 Advanced Features Payments Email File Uploads 
