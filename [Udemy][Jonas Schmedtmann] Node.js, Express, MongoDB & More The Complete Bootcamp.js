@@ -46,6 +46,9 @@ Start
 Finish
 
 12 Server-Side Rendering with Pug Templates 
+Start
+
+
 13 Advanced Features Payments Email File Uploads 
 14 Setting Up Git and Deployment 
 15 Thats It Everyone
