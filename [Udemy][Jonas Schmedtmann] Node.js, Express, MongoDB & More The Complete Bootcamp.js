@@ -50,6 +50,9 @@ Start
 Finish
 
 13 Advanced Features Payments Email File Uploads 
+Start
+
+
 14 Setting Up Git and Deployment 
 15 Thats It Everyone
 
