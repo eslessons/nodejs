@@ -55,7 +55,7 @@ Finish
 
 14 Setting Up Git and Deployment 
 Start
-
+Continue
 
 15 Thats It Everyone
 
